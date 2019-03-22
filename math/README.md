@@ -1,7 +1,7 @@
 ## math classes
 
 # Matrix
-```public RationalNumber[][] ratMat```
+```public RationalNumber[][] ratMat```  
 		- 2D array of RationalNumber
    
 ```public Matrix(RationalNumber[][] ratMat)```
