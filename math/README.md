@@ -2,13 +2,15 @@
 
 # Matrix
 ```
-	public RationalNumber[][] ratMat
+public RationalNumber[][] ratMat
 ```
    - 2D array if RationalNumber
+   
 ```
-	public Matrix(RationalNumber[][] ratMat)
+public Matrix(RationalNumber[][] ratMat)
 ```
    - Constructs Matrix
+   
 		
  * public Matrix plus(Matrix mat)
  * public static RationalNumber[][] add(RationalNumber[][] ratMat,RationalNumber[][] ratMatB)
