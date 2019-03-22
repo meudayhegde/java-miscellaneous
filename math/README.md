@@ -2,7 +2,7 @@
 
 # Matrix
 ```public RationalNumber[][] ratMat```  
-		- 2D array of RationalNumber  
+                - 2D array of RationalNumber  
    
 ```public Matrix(RationalNumber[][] ratMat)```  
 		- Constructs Matrix  
