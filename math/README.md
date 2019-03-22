@@ -1,9 +1,10 @@
 ## math classes
 
 # Matrix
-
+```
  * public RationalNumber[][] ratMat
-		* 2D array if RationalNumber
+```
+		- 2D array if RationalNumber
 
  * public Matrix(RationalNumber[][] ratMat)
 		- Constructs Matrix
