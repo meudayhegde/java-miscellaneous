@@ -2,7 +2,7 @@
 
 # Matrix
 
- * public RationalNumber[][] ratMat
+ * **public RationalNumber[][] ratMat
 		- 2D array if RationalNumber
 
  * public Matrix(RationalNumber[][] ratMat)
